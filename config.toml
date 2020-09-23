@@ -1,0 +1,7 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+theme = 'hugo-bearblog'
+title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
+author = "Jane Doe"
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
