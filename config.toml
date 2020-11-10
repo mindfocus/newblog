@@ -7,6 +7,18 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 disqusShortname= "oslab"
+enableEmoji = true
+
+[imaging]
+# See https://github.com/disintegration/imaging
+# CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
+# Note that you can also set this per image processing.
+resampleFilter = "CatmullRom"
+
+# Default JPEG quality setting. Default is 75.
+quality = 75
+
+anchor = "smart"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
