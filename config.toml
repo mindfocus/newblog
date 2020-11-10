@@ -1,7 +1,7 @@
 baseURL = "https://blog.oslab.top/"
 languageCode = "en-us"
 theme = 'hugo-bearblog'
-title = "Hugo ʕ•ᴥ•ʔ Bear Blog"
+title = "开源实验室"
 author = "Jane Doe"
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
