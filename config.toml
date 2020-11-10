@@ -6,6 +6,7 @@ author = "Jane Doe"
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+disqusShortname= "oslab"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.

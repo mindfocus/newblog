@@ -12,7 +12,7 @@
 <content>
   {{ .Content }}
 </content>
-
+{{ template "_internal/disqus.html" . }}
 <p>
   {{ range (.GetTerms "tags") }}
   <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
