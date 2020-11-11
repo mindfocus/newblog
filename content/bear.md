@@ -3,7 +3,7 @@ title = "Bear"
 menu = "main"
 +++
 
-# Bear
+# theme
 
 Website: https://bearblog.dev
 

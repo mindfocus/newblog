@@ -1,5 +1,6 @@
 baseURL = "https://blog.oslab.top/"
-languageCode = "en-us"
+languageCode = "zh-CN"
+defaultContentLanguage="zh"
 theme = 'hugo-bearblog'
 title = "开源实验室"
 author = "Jane Doe"
@@ -9,6 +10,21 @@ ignoreErrors = ["error-disable-taxonomy"]
 disqusShortname= "oslab"
 googleAnalytics = "G-1T18GMQ2P9"
 enableEmoji = true
+googleAnalytics = "G-1T18GMQ2P9"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog112"
+    name = "This is the blog section"
+    title = "blog section"
+    url = "/blog3/"
+    weight = 3
+  [[menu.main]]
+    name = "getting started"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/getting-started/"
+    weight = -100
 
 [imaging]
 # See https://github.com/disintegration/imaging

@@ -12,7 +12,7 @@ What happens when you combine the worlds' fastest, most lightweight static site 
 
 **Use this theme, and find out!**
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+Made with ❤️ by [Jan Raasch](https://www.janraasch.com).
 
 ---
 
