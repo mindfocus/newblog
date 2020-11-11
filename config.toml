@@ -12,20 +12,6 @@ googleAnalytics = "G-1T18GMQ2P9"
 enableEmoji = true
 googleAnalytics = "G-1T18GMQ2P9"
 
-[menu]
-  [[menu.main]]
-    identifier = "blog112"
-    name = "This is the blog section"
-    title = "blog section"
-    url = "/blog3/"
-    weight = 3
-  [[menu.main]]
-    name = "getting started"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/getting-started/"
-    weight = -100
-
 [imaging]
 # See https://github.com/disintegration/imaging
 # CatmullRom is a sharp bicubic filter which should fit the docs site well with its many screenshots.
