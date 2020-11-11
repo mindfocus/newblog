@@ -7,6 +7,7 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 disqusShortname= "oslab"
+googleAnalytics = "G-1T18GMQ2P9"
 enableEmoji = true
 
 [imaging]
