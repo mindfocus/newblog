@@ -5,6 +5,8 @@ Maybe I have something to write....
 1. Maybe not a good father
 2. Maybe not a good husband
 3. Maybe not a good coder
+4. Pretty sure a nerd
+
 
 > We still have a long way to go, But at least we have made a start. 
 
