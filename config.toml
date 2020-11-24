@@ -55,3 +55,5 @@ anchor = "smart"
       table = true
       taskList = true
       typographer = true
+    [markup.goldmark.renderer]
+      unsafe = true
