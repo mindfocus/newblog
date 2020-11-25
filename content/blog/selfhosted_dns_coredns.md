@@ -3,7 +3,7 @@ title = "自建DNS服务器_CoreDNS"
 date = "2020-11-24"
 description = "自建DNS服务器_CoreDNS"
 tags = [
-    "selfhost",
+    "selfhosted",
     "coredns",
     "dns"
 ]
